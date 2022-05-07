@@ -8,12 +8,11 @@ This site https://rw-community.org/ contains the tutorials on testing and debugg
 
 This repository contains the clone of the [Redwood Tutorial App](https://github.com/redwoodjs/redwood-tutorial) `Redwood blog` as the final state of that app **after the first four chapters** (before the [Intermission chapter](https://redwoodjs.com/docs/tutorial/intermission)) (note the work `clone` rathen than `fork`, to avoid any unneeded interactions).
 
-
 This (tandem-tutorial-samples) collection "lives" in **main** branch of [this repository](https://github.com/adriatic/tandem-tutorial-samples). It is the only non-modified version of the tutorial which is used to verify the correct functioning of the coomplete development environment.
 
 In order to getting this application up and running, the following commands need to be executed first:
 ```
-https://github.com/adriatic/tandem-tutorial-samples
+git clone https://github.com/adriatic/tandem-tutorial-samples
 cd tandem-tutorial-samples
 yarn install
 yarn rw prisma migrate dev

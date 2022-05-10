@@ -2,7 +2,7 @@
 
 ### Executive summary
 
-This site https://rw-community.org/ contains the tutorials on testing and debugging a typical redwood application (chosen to be [Redwood tutorial app](https://github.com/redwoodjs/redwood-tutorial#redwood-tutorial-app)). The files that need testing and debugging are in various other than main) branches of [tandem tutorial samples](https://github.com/adriatic/tandem-tutorial-samples) site.
+The site https://rw-community.org/ contains the tutorials on testing and debugging a typical redwood application (chosen to be [Redwood tutorial app](https://github.com/redwoodjs/redwood-tutorial#redwood-tutorial-app)). The files that need testing and debugging are in various other than main) branches of [tandem tutorial samples](https://github.com/adriatic/tandem-tutorial-samples) site.
 
 ---
 
